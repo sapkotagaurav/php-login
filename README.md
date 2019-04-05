@@ -1,1 +1,1 @@
-A Login and verification based in php
+A Login and verification Sample based in php
